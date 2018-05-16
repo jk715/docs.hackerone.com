@@ -2,6 +2,7 @@
 title: "Response Targets"
 path: "/programs/response-targets.html"
 id: "programs/response-targets"
+description: "Response targets refer to how quickly your security team will respond to a found vulnerability. The quicker your response target, the healthier and more attractive your program will be."
 ---
 
 Response targets refer to how quickly your security team will respond to a found vulnerability. The quicker your response target, the healthier and more attractive your program will be. 
